@@ -1,0 +1,27 @@
+.venv/
+.vscode/
+
+# Common dataset and data directories
+data/
+dataset/
+datasets/
+Data/
+Dataset/
+Datasets/
+
+# Common dataset / ML artifact file types
+*.csv
+*.tsv
+*.jsonl
+*.ndjson
+*.parquet
+*.feather
+*.arrow
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.pt
+*.pth
